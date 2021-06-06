@@ -7,10 +7,12 @@ git clone https://github.com/nithishmohan/openenvoy-test
 cd openenvoy-test
 do pip install .
 
-##To Analyse a file
 
-$ cd openenvoy
+To analyse a file
+-------
 
-$ python main file
+$ cd openenvoy-test
+
+$ python main file(file location)
 
 
